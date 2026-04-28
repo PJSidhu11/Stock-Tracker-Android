@@ -10,7 +10,7 @@ Most stock apps focus on market news or general price movements. Investors often
 
 ### 3. Platform
 * **Primary Platform:** Android
-* **Minimum SDK:** API 16 (Jelly Bean) to ensure compatibility with nearly 100% of Android devices.
+* **Minimum SDK:** API 24 to ensure compatibility with nearly 100% of Android devices.
 
 ### 4. Front/Back End Support
 * **Front End:** Android XML layouts using RecyclerView for the stock list and CardView for a modern UI.
